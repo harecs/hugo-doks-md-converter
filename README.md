@@ -31,3 +31,5 @@ To install MyApp, run the following command:
 ```bash
 npm install myapp
 ```
+
+*NOTE: The original file will be overwritten*
