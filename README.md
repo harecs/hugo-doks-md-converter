@@ -1,1 +1,1 @@
-# hugo-doks-md-converter
+# Hugo Doks Markdown Converter
