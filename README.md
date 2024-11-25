@@ -1,7 +1,7 @@
 # Hugo Doks Markdown Converter
 ![image](https://github.com/user-attachments/assets/c2419a09-9d61-48c9-8a2e-e9e9a6060bf2)
 
-Simple script that will add a title to a Hugo Doks .md file.
+Simple script that will add a title to a normal .md file. The converted file will have a title section which is required so that Doks show it in the static site.
 
 ## Example
 
